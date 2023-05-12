@@ -67,7 +67,8 @@ function Footer() {
             <p class="mb-2">Copyright &copy; <a class="fw-semi-bold" href="#">Porter</a>, All Right Reserved.
             </p>
             {/* HEllo */}
-            <p class="mb-0">Designed By <a class="fw-semi-bold" href="https://htmlcodex.com">Sparsh Garg</a>
+            <p class="mb-0">Designed By <a class="fw-semi-bold" href="https://htmlcodex.com">Sparsh Garg</a> Distributed
+                By: <a href="https://themewagon.com">ThemeWagon</a> </p>
         </div>
     </div>
     {/* Copyright End */}
