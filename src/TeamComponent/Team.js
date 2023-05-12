@@ -8,7 +8,7 @@ function Team() {
     <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style={{"max-width": "600px"}}>
-                <p class="fw-medium text-uppercase text-primary mb-2">Our Team</p>
+            <p class="fw-medium text-uppercase text-primary fs-1 mb-2">Our Team</p>
                 <h1 class="display-5 mb-5">Dedicated Team Members</h1>
             </div>
             <div class="row g-4">

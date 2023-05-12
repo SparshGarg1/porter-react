@@ -21,11 +21,11 @@ function Nav() {
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
                     <div class="dropdown-menu bg-light m-0">
-                        <a  class="dropdown-item">Projects</a>
-                        <a class="dropdown-item">Features</a>
-                        <a class="dropdown-item">Our Team</a>
-                        <a class="dropdown-item">Testimonial</a>
-                        <a class="dropdown-item">404 Page</a>
+                        {/* <a  class="dropdown-item">Projects</a> */}
+                        <a class="dropdown-item"><Link to="/feature" style={{"color":"#02245b"}}>Features</Link></a>
+                        <a class="dropdown-item"><Link to="/team" style={{"color":"#02245b"}}>Our Team</Link></a>
+                        {/* <a class="dropdown-item">Testimonial</a>
+                        <a class="dropdown-item">404 Page</a> */}
                     </div>
                 </div>
                 <a class="nav-item nav-link"><Link to="/register" style={{"color":"#02245b"}}>Register</Link></a>

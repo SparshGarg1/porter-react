@@ -19,23 +19,24 @@ function About() {
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <p class="fw-medium text-uppercase text-primary mb-2">About Us</p>
-                    <h1 class="display-5 mb-4">We Are Leader In Industrial Market</h1>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et
-                        eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet
+                    <p class="fw-medium text-uppercase fs-1 text-primary mb-2">About Us</p>
+                    <h1 class="display-5 mb-4">We Are Leader In Market</h1>
+                    <p class="mb-4">
+                    Porter is a tech-enabled logistics company offering a variety of intracity and intercity delivery services. Just download and register yourself on the app, choose the service that best 
+                    fits yours logistic needs and make your booking! With Porter, you will get a verified driver and vehicle right at your doorstep.
                     </p>
                     <div class="d-flex align-items-center mb-4">
                         <div class="flex-shrink-0 bg-primary p-4">
-                            <h1 class="display-2">25</h1>
+                            <h1 class="display-2">15</h1>
                             <h5 class="text-white">Years of</h5>
                             <h5 class="text-white">Experience</h5>
                         </div>
                         <div class="ms-4">
-                            <p><i class="fa fa-check text-primary me-2"></i>Power & Energy</p>
-                            <p><i class="fa fa-check text-primary me-2"></i>Civil Engineering</p>
-                            <p><i class="fa fa-check text-primary me-2"></i>Chemical Engineering</p>
-                            <p><i class="fa fa-check text-primary me-2"></i>Mechanical Engineering</p>
-                            <p class="mb-0"><i class="fa fa-check text-primary me-2"></i>Oil & Gas Engineering</p>
+                            <p><i class="text-primary me-2 fa fa-home"></i>Home Shifting</p>
+                            <p><i class="text-primary me-2 fa fa-building"></i>Corporate Moving</p>
+                            <p><i class="fa fa-car text-primary me-2"></i>Vechile Shifting</p>
+                            <p><i class="fa fa-map-marker text-primary me-2"></i>Courier Services</p>
+                            <p><i class="text-primary me-2 fa fa-car"></i>Car Rental</p>
                         </div>
                     </div>
                     <div class="row pt-2">
@@ -57,7 +58,7 @@ function About() {
                                 </div>
                                 <div class="ms-3">
                                     <p class="mb-2">Call us</p>
-                                    <h5 class="mb-0">+012 345 6789</h5>
+                                    <h5 class="mb-0">+91 982XX-XXXXX</h5>
                                 </div>
                             </div>
                         </div>

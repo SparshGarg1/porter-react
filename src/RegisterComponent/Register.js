@@ -17,13 +17,13 @@ function Register() {
     setMobile("");
     setAddress("");
     setCity("");
-    setOutput("form submitted successfully");
+    setOutput("Form submitted successfully");
   }
   return (
     <div id="Register" class="d-flex align-items-center justify-content-center flex-column">
          {/* Register Start */}
-         <h1 >Register Here!!!</h1><br/>
-         <span>{output}</span>
+         <p class="fw-medium text-uppercase text-primary fs-1 mb-2">Register Here!!</p>
+         <span class="fs-4 text-success">{output}</span>
          <form>
           <div class="form-group">
           <label for="email">Email address:</label>
@@ -67,14 +67,15 @@ function Register() {
         {/* {City}*/}
         <br/>
         <div class="form-group">
-          <label for="Gender">City:</label>
+          <label for="Gender">Gender:</label>
           <select type="text" class="form-control" id="gender" value={gender} onChange={e=> setGender(e.target.value)}>
+            <option>Select Gender</option>
             <option>Male</option>
             <option>Female</option>
             <option>Others</option>
           </select>
         </div>
-        {/* {City}*/}
+        {/* {gender}*/}
         <br/>
         <button onClick={handleSubmit} type="button" class="btn btn-warning">Submit</button>
       </form>

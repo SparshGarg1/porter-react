@@ -19,7 +19,7 @@ function App() {
     <div id="container" >
       <Header />
       <Nav />
-      <Banner />
+      {/* <Banner /> */}
       <Routes>
       <Route path="/" element={<Content />} ></Route>
       <Route path="/about" element={<About />} ></Route>
@@ -27,6 +27,8 @@ function App() {
       <Route path="/service" element={<Service />} ></Route>
       <Route path="/register" element={<Register />} ></Route>
       <Route path="/login" element={<Login />} ></Route>
+      <Route path="/feature" element={<Features />} ></Route>
+      <Route path="/team" element={<Team />} ></Route>
     </Routes>
       
       

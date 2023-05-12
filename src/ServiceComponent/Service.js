@@ -8,7 +8,7 @@ function Service() {
        <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto pb-4 wow fadeInUp" data-wow-delay="0.1s" style={{"max-width": "600px"}}>
-                <p class="fw-medium text-uppercase text-primary mb-2">Our Services</p>
+                <p class="fw-medium text-uppercase text-primary fs-1 mb-2">Our Services</p>
                 <h1 class="display-5 mb-4">We Provide Best Industrial Services</h1>
             </div>
             <div class="row gy-5 gx-4">
@@ -21,7 +21,7 @@ function Service() {
                         <div class="service-detail">
                             <div class="service-title">
                                 <hr class="w-25"/>
-                                <h3 class="mb-0">Civil & Gas Engineering</h3>
+                                <h3 class="mb-0">Home Shifting</h3>
                                 <hr class="w-25"/>
                             </div>
                             <div class="service-text">
@@ -41,7 +41,7 @@ function Service() {
                         <div class="service-detail">
                             <div class="service-title">
                                 <hr class="w-25"/>
-                                <h3 class="mb-0">Power & Energy Engineering</h3>
+                                <h3 class="mb-0">Vechile Shifting</h3>
                                 <hr class="w-25"/>
                             </div>
                             <div class="service-text">
@@ -61,7 +61,7 @@ function Service() {
                         <div class="service-detail">
                             <div class="service-title">
                                 <hr class="w-25"/>
-                                <h3 class="mb-0">Plumbing & Water Treatment</h3>
+                                <h3 class="mb-0">Corporate Moving</h3>
                                 <hr class="w-25"/>
                             </div>
                             <div class="service-text">
